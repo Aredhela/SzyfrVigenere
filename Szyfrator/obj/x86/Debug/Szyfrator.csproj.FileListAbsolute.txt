@@ -1,0 +1,15 @@
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\obj\x86\Debug\FromScreen.baml
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\obj\x86\Debug\MainWindow.baml
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\obj\x86\Debug\FromScreen.g.cs
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\obj\x86\Debug\App.g.cs
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\obj\x86\Debug\Szyfrator_MarkupCompile.cache
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\obj\x86\Debug\Szyfrator.g.resources
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\obj\x86\Debug\Szyfrator.Properties.Resources.resources
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\obj\x86\Debug\Szyfrator.csproj.GenerateResource.Cache
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\obj\x86\Debug\FromFile.baml
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\obj\x86\Debug\FromFile.g.cs
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\bin\Debug\Szyfrator.exe
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\bin\Debug\Szyfrator.pdb
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\obj\x86\Debug\Szyfrator.exe
+C:\Users\Aredhel\documents\visual studio 2010\Projects\Szyfrator\Szyfrator\obj\x86\Debug\Szyfrator.pdb

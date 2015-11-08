@@ -1,0 +1,22 @@
+﻿<Window x:Class="Szyfrator.FromScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Szyfrowanie z klawiatury" Height="300" Width="525">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF0046FF" Offset="0"/>
+            <GradientStop Color="White" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <TextBox x:Name="TextBox_decrypted_Screen" HorizontalAlignment="Left" Height="50" Margin="10,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="497"  RenderTransformOrigin="0.489,2.667" CharacterCasing="Lower" AcceptsReturn="True" AcceptsTab="True"/>
+        <TextBox x:Name="TextBox_encrypted_Screen" HorizontalAlignment="Left" Height="50" Margin="10,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="497"  RenderTransformOrigin="0.489,2.667" CharacterCasing="Lower" AcceptsReturn="True" AcceptsTab="True"/>
+        <Button x:Name="Button_encrypt_Screen" Content="Zaszyfruj" HorizontalAlignment="Left" VerticalAlignment="Top" Width="145" Margin="195,12,0,0" Click="Button_encrypt_Screen_Click" Height="38" />
+        <Label  x:Name="Label_correct_Screen" Content="Poprawny tekst" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.789,2.385" Margin="10,46,0,0" Width="150"/>
+        <Label x:Name="Label_encrypted_Screen" Content="Zaszyfrowany tekst" HorizontalAlignment="Left" Margin="10,149,0,0" VerticalAlignment="Top" Width="150"/>
+        <Button x:Name="Button_BackToMain_Screen" Content="Menu główne" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="387,239,0,0" Click="Button_BackToMain_Screen_Click"/>
+        <Button Content="Odszyfruj" Height="38" HorizontalAlignment="Left" Margin="346,12,0,0" Name="button1" VerticalAlignment="Top" Width="145" Click="Button_decrypt_Screen_Click" />
+        <TextBox x:Name="TextBox_Password" Height="23" HorizontalAlignment="Left" Margin="12,27,0,0" VerticalAlignment="Top" Width="177" TextChanged="TextBox_Password_TextChanged" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="12,12,0,0" Name="textBlock1" Text="Klucz :" VerticalAlignment="Top" />
+    </Grid>
+</Window>
